@@ -1,6 +1,11 @@
 # mioriot 📶
 iot
 
+## Objective
+- Create Azure IoT Central application.
+- Create IoT device template.
+- Integrate a simulated IoT device with an Azure IoT Central application.
+
 ## iOT Hub & Central App
 
 ![mioriot001.png](./media/mioriot001.png)
